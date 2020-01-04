@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "76948079233",
+    "firebase_url": "https://scio-532dc.firebaseio.com",
+    "project_id": "scio-532dc",
+    "storage_bucket": "scio-532dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76948079233:android:1cbfbceccbef0999a14380",
+        "android_client_info": {
+          "package_name": "com.example.scio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76948079233-9mv1elu89e46nd85j3qhe5njcu5otnva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scio",
+            "certificate_hash": "ba547f334de9f3ea529e43588615615d42b2a0ac"
+          }
+        },
+        {
+          "client_id": "76948079233-vmog0fq71m48i22s0aoktjabbdaujfnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-8vTRs4_2aLJL-DhhlgHBn73OuFUsHCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76948079233-vmog0fq71m48i22s0aoktjabbdaujfnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
